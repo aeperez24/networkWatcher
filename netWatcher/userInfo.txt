@@ -1,0 +1,13 @@
+|idUser	|tdispositivo	|nombre	|descripcion		|enviarCorreo	|	correo					|mac			|
+|1	|1		|Oriana	|movil de oriana	            |Y		        |isabel.pacheco2510@gmail.com       		|C0:63:94:5C:4A:1E	|
+|2	|2		|Andrea	|Pc de Andrea	                |Y		        |anferPb@gmail.com	                    	|D0:7E:35:77:FF:D3	|
+|3	|2		|unknown|unknown	    	            |N		        |unknown	                    		|C0:05:C2:7E:96:F8	|
+|4	|2		|unknown|unknown	    	            |N		        |unknown	                    		|B0:E2:35:FD:8E:98	|
+|5	|2		|unknown|unknown	    	            |N		        |unknown	                    		|30:A9:DE:A9:8A:58	|
+|6	|2		|unknown|unknown	    	            |N		        |unknown	                    		|18:00:2D:2E:E7:7A	|
+|7	|2		|unknown|unknown	    	            |N		        |unknown	                    		|60:E3:AC:B7:6C:BF	|
+|8	|2		|Andrea |celular	    	            |Y		        |anferPb@gmail.com                 		|58:F1:02:7E:C3:5E	|
+|9	|2		|unknown|unknown	    	            |N		        |unknown	                    		|74:29:AF:57:7C:3B	|
+|10	|2		|unknown|unknown	    	            |N		        |unknown	                    		|58:91:CF:11:4A:DB	|
+|11	|2		|unknown|unknown	    	            |N		        |unknown	                    		|00:0F:60:01:BC:EF	|
+|12	|3		|Andrea Tablet|Andrea Tablet            |Y		        |anferPb@gmail.com	                    |AC:22:0B:3D:26:24	|

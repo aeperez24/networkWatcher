@@ -1,0 +1,2 @@
+mailUsername="username"
+mailPassword="password"
